@@ -1,4 +1,0 @@
-iChat
-=====
-
-Android XMPP client
